@@ -1,4 +1,4 @@
-package com.dinkes.heri.mediaplayerexample
+package com.example.andriano.mediaplayerexample
 
 import org.junit.Test
 

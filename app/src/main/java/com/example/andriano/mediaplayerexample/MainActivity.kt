@@ -1,10 +1,10 @@
-package com.dinkes.heri.mediaplayerexample
+package com.example.andriano.mediaplayerexample
 
 import android.media.MediaPlayer
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import com.dinkes.heri.mediaplayerexample.databinding.ActivityMainBinding
+import com.example.andriano.mediaplayerexample.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.dinkes.heri.mediaplayerexample"
+    namespace = "com.example.andriano.mediaplayerexample"
     compileSdk = 36
 
     buildFeatures {
@@ -12,7 +12,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.dinkes.heri.mediaplayerexample"
+        applicationId = "com.example.andriano.mediaplayerexample"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
